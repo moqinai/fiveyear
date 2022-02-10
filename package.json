@@ -48,7 +48,7 @@
     "eslint-plugin-vue": "^5.0.0",
     "mobile-select": "^1.1.2",
     "mockjs": "^1.0.1-beta3",
-    "node-sass": "^4.9.0",
+    "node-sass": "^7.0.0",
     "sass-loader": "^7.1.0",
     "typescript": "^3.4.3",
     "vue-template-compiler": "^2.6.10"
